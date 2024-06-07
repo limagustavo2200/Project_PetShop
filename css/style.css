@@ -1,0 +1,198 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+
+.container {
+    padding: 120px 80px;
+}
+
+h3 {
+    font-size: 36px;
+    color: #3c184e;
+    text-align: center;
+    margin: 0px 0px 45px;
+}
+
+span {
+    font-weight: 700;
+    font-style: italic;
+}
+
+/*    --> SEÇAO 1 <--    */
+
+.banner {
+    width: 100%;
+    background-image: url("../img/banner-topo.jpg");
+    background-position: center;
+    background-size: cover;
+    color: #3C184E;
+}
+
+.bannerLogo {
+    max-width: 250px;
+    color: #3c184e;
+}
+
+.bannerP1 {
+    font-size: 35px;
+    margin: 0 0 5px 0;
+
+}
+
+.bannerP1 img {
+    width: 30px;
+    margin-right: 5px;
+}
+
+.bannerP2 {
+    font-size: 14px;
+    text-align: center;
+    margin: 0;
+}
+
+.bannerTexto {
+    text-align: center;
+    max-width: 1024px;
+    border-radius: 10px;
+    padding: 40px;
+    margin: 70px auto 0px;
+    background-color: #ffffffc4;
+    box-shadow: 0 8px 23px #1f26875e;
+
+}
+
+.bannerTexto h1 {
+    font-size: 60px;
+    color: #3c184e;
+    text-align: center;
+    font-weight: 800;
+    margin: 0 0 40px 0;
+}
+
+.bannerTexto p {
+    width: 200px;
+    padding: 10px 25px;
+    margin: 0 auto;
+    border-radius: 10px;
+    font-size: 20px;
+    text-align: center;
+    background-color: #3c184e;
+}
+
+.bannerTexto p a {
+    color: #ffff
+}
+
+.bannerTexto p img {
+    width: 20px;
+}
+
+/*    --> SEÇAO 2 <--    */
+
+.serviços {
+    width: 100%;
+}
+
+.serviçosListas {
+    width: 800px;
+    margin: 0px auto 50px;
+    color: #3c184e;
+}
+
+.serviçosListas li {
+    font-size: 20px;
+    margin: 0px 0px 20px 0px;
+
+}
+
+.serviçosImagens {
+    width: 800px;
+    margin: 0px auto;
+    text-align: center;
+}
+
+.serviçosImagens img {
+    border-radius: 5px;
+    box-shadow: 3px 6px 10px 6px #0000005c;
+}
+
+
+/*    --> SEÇAO 3 <--    */
+
+
+.redesFaixa {    
+    background-color: #3C184E;
+    text-align: center;
+}
+
+.textFaixa {
+    max-width: 800px;
+    margin: 0px auto 50px;
+    font-size: 40px;
+    color: #fff;
+}
+
+.redesFaixaIcones a {
+    margin: 0 20px;
+}
+
+.redesFaixaIcones img {
+    width: 50px;
+    height:50px;
+}
+
+
+/*    --> SEÇAO 4 <--    */
+
+
+.grid {
+    max-width: 800px;
+    margin: 0px auto;
+    text-align: center;
+
+}
+
+.grid img {
+    width: 148px;
+    height: 148px;
+    margin: 0px 15px;
+}
+
+/*    --> SEÇAO 5 <--    */
+
+
+.mapa {
+    text-align: center;
+}
+
+.mapa p {
+    font-size: 20px;
+    color: #3c184e;
+    margin: 0 auto 45px;
+}
+
+.mapa iframe {
+    width: 800px;
+    height: 450px;
+}
+
+
+/*    --> SEÇAO 6 <--    */
+
+
+.rodape {
+    width: 100%;
+    padding: 10px 0;
+    background-color: #3C184E;
+
+}
+
+.textoRodape {
+    color: #fff;
+    font-size: 12px;
+    text-align: center;
+}
